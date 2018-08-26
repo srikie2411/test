@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-yo yo
-=======
-first branch
->>>>>>> firstbranch
